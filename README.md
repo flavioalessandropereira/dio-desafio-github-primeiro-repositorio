@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO.
-Repositório criado conforme direcionamento do curso da DIO.
+Repositório criado conforme direcionamento do curso GIT da DIO.
 
 <strong>Autor:</strong> Flavio A Pereira
 
